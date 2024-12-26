@@ -16,8 +16,10 @@ This project is a comprehensive sales insights dashboard created using Power BI.
 3. What are the top-performing products/categories contributing to revenue?
 4. How do sales compare year-over-year or month-over-month?
 5. What patterns or outliers can be identified from the sales data?
-![Screenshot 2024-12-26 182323](https://github.com/user-attachments/assets/d91806c4-ec5a-45cb-8946-f098599049db)
-![Profit Analysis](https://github.com/use![Screenshot 2024-12-26 182323](https://github.com/user-attachments/assets/88b856e0-88de-43de-a136-95baf5ba7d0f)
+
+![Screenshot 2024-12-26 182323](https://github.com/user-attachments/assets/12edc1c1-673a-487e-a53f-cfb879544bd7)
+![Profit Analysis](https://github.com/user-attachments/assets/30aa6ecb-0f5c-4ad5-aeaa-b3864cd823b4)
+
 ![Screenshot 2024-12-26 182231](https://github.com/user-attachments/assets/3da7528a-a19d-422c-bc1f-30b69678b8f7)
 
 
